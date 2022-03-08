@@ -1,5 +1,6 @@
 # NodeAutoVersionPush
 A Visual Studio Code macro in JavaScript to automate version numbering then committing and pushing.
+It's mainly for NodeJS but you can tweak it for anything else.
 The numbering is based on date and total commits count.
 
 For example: 2022.3.8-123
